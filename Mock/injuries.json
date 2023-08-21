@@ -1,0 +1,37 @@
+{
+  "injuries": [
+    {
+      "description": "Frequencia 60 Gravidade 60 - Algumas lesões irão te atrapalhar na temporada, apenas reponha com jovens da base."
+    },
+    {
+      "description": "Frequencia 80 Gravidade 40 - Seu DM será cheio, mas por pouco tempo. Se uma lesão for maior que 6 meses, contrate um passe livre pro seu lugar."
+    },
+    {
+      "description": "Frequencia 70 Gravidade 50 - As lesões serão constantes e vão atrapalhar. Tenha elenco com pelo menos 1 por posição vindo da base."
+    },
+    {
+      "description": "Frequencia 90 Gravidade 30 - Você vai ter que aprender a lidar com improvisos e jogadores multi função para tantos desfalques na temporada."
+    },
+    {
+      "description": "Frequencia 50 Gravidade 70 - Lesões graves serão raras, mas quando ocorrerem, podem deixar jogadores importantes fora por muito tempo."
+    },
+    {
+      "description": "Frequencia 70 Gravidade 30 - As lesões serão comuns, mas a maioria será de menor gravidade, permitindo uma rápida recuperação."
+    },
+    {
+      "description": "Frequencia 60 Gravidade 80 - Lesões graves serão um problema constante, exigindo que você gerencie cuidadosamente seu elenco e estratégia de jogo."
+    },
+    {
+      "description": "Frequencia 40 Gravidade 40 - Lesões serão raras e de menor gravidade, permitindo que você se concentre em manter uma equipe consistente."
+    },
+    {
+      "description": "Frequencia 70 Gravidade 70 - Lesões ocorrerão com frequência e terão um impacto significativo em sua equipe, testando sua profundidade do elenco."
+    },
+    {
+      "description": "Frequencia 40 Gravidade 60 - Lesões moderadas serão relativamente raras, mas podem causar impacto quando ocorrerem."
+    },
+    {
+      "description": "Frequencia 60 Gravidade 40 - Lesões leves serão comuns, mas não terão um efeito drástico em sua equipe."
+    }
+  ]
+}

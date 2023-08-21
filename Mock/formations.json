@@ -1,0 +1,76 @@
+{
+  "formations": [
+    {
+      "formation": "4-4-2",
+      "description": "Um esquema tradicional com quatro defensores, quatro meio-campistas e dois atacantes."
+    },
+    {
+      "formation": "4-2-3-1",
+      "description": "Quatro defensores, dois volantes defensivos, três meio-campistas ofensivos e um atacante."
+    },
+    {
+      "formation": "4-3-3",
+      "description": "Quatro defensores, três meio-campistas (um defensivo e dois ofensivos) e três atacantes."
+    },
+    {
+      "formation": "4-1-2-1-2",
+      "description": "Quatro defensores, um volante defensivo, dois meio-campistas centrais e um par de atacantes."
+    },
+    {
+      "formation": "3-5-2",
+      "description": "Três defensores, cinco meio-campistas (três centrais e dois ala) e dois atacantes."
+    },
+    {
+      "formation": "3-4-3",
+      "description": "Três defensores, quatro meio-campistas (dois centrais e dois ala) e três atacantes."
+    },
+    {
+      "formation": "5-3-2",
+      "description": "Cinco defensores, três meio-campistas e dois atacantes."
+    },
+    {
+      "formation": "4-5-1",
+      "description": "Quatro defensores, cinco meio-campistas (três centrais e dois ala) e um atacante central."
+    },
+    {
+      "formation": "4-3-2-1",
+      "description": "Quatro defensores, três meio-campistas centrais e dois atacantes avançados."
+    },
+    {
+      "formation": "4-3-1-2",
+      "description": "Quatro defensores, três meio-campistas centrais e um atacante central apoiado por um par de atacantes."
+    },
+    {
+      "formation": "4-2-2-2",
+      "description": "Quatro defensores, dois volantes, dois meio-campistas ofensivos e dois atacantes."
+    },
+    {
+      "formation": "4-2-4",
+      "description": "Quatro defensores, dois volantes e quatro atacantes."
+    },
+    {
+      "formation": "4-1-4-1",
+      "description": "Quatro defensores, um volante defensivo e quatro meio-campistas."
+    },
+    {
+      "formation": "3-4-1-2",
+      "description": "Três defensores, quatro meio-campistas (dois centrais e dois ala) e um atacante central apoiado por um atacante."
+    },
+    {
+      "formation": "4-3-3 (falso 9)",
+      "description": "Quatro defensores, três meio-campistas (um defensivo e dois ofensivos) e um atacante central mais recuado."
+    },
+    {
+      "formation": "5-2-1-2",
+      "description": "Cinco defensores, dois meio-campistas centrais e um atacante central com dois atacantes mais avançados."
+    },
+    {
+      "formation": "5-4-1",
+      "description": "Cinco defensores, dois volantes, dois meias-ofensivos e somente um atacante"
+    },
+    {
+      "formation": "5-3-2",
+      "description": "Cinco defensores, três meias-ofensivos e somente um atacante"
+    }
+  ]
+}

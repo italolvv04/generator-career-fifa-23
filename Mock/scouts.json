@@ -1,0 +1,28 @@
+{
+  "scouts": [
+    {
+      "description": "Invista em só 1 olheiro e deixe ele 9 meses em cada país."
+    },
+    {
+      "description": "Invista em só 1 olheiro e mude de local a cada 3 meses."
+    },
+    {
+      "description": "Invista no olheiro mais caro, e crie categoria de base com jogadores do país do seu time."
+    },
+    {
+      "description": "Invista em 2 olheiros. Coloque 1 no seu país por todo ano e o outro no país vizinho."
+    },
+    {
+      "description": "Invista em olheiros que serão especializados em regiões específicas do mundo, como América do Sul, Europa, África, Ásia, etc."
+    },
+    {
+      "description": "Tenha olheiros focados em posições específicas, como goleiros, zagueiros, meio-campistas e atacantes."
+    },
+    {
+      "description": "Mande olheiros para países e ligas menores, onde talentos menos conhecidos podem ser descobertos."
+    },
+    {
+      "description": "Envie olheiros para países e ligas com rivalidades intensas com seu time para atrair jogadores competitivos."
+    }
+  ]
+}

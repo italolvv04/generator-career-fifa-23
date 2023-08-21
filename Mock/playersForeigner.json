@@ -1,0 +1,52 @@
+{
+  "playersForeigner": [
+    {
+      "description": "Seu elenco pode ter no maximo 50% de jogadores estrangeiros."
+    },
+    {
+      "description": "Desenvolva um time da comunidade, somente contrate jogadores do país do seu clube."
+    },
+    {
+      "description": "Jogadores estrangeiros somente podem ter renovações por 1 ano no máximo, independente da idade."
+    },
+    {
+      "description": "Tenha no máximo 5 estrangeiros em campo."
+    },
+    {
+      "description": "Somente contrate estrangeiros por 2 anos de contrato, e não os negocie antes desses 2 anos."
+    },
+    {
+      "description": "Somente contrate estrangeiros por 3 anos de contrato."
+    },
+    {
+      "description": "Tenha um elenco de 30 jogadores e com 80% de jogadores locais."
+    },
+    {
+      "description": "Crie um elenco com um número máximo de estrangeiros igual ao número de jogadores nascidos no país do clube."
+    },
+    {
+      "description": "Jogadores estrangeiros só podem ser contratados se tiverem menos de 25 anos de idade, incentivando o desenvolvimento de talentos jovens locais."
+    },
+    {
+      "description": "Crie uma política de um a um, onde cada jogador estrangeiro contratado deve ser acompanhado pela promoção de um jogador local da base."
+    },
+    {
+      "description": "Escolha um país específico e concentre-se apenas na contratação de jogadores desse país para promover uma identidade internacional única."
+    },
+    {
+      "description": "Desenvolva um projeto de longo prazo para substituir gradualmente todos os jogadores estrangeiros por talentos locais, independentemente da qualidade."
+    },
+    {
+      "description": "Jogadores estrangeiros só podem ser contratados se forem referências em suas respectivas posições, justificando a presença estrangeira com qualidade."
+    },
+    {
+      "description": "Desenvolva um sistema de rodízio onde, a cada partida, pelo menos um jogador estrangeiro deve começar no banco de reservas."
+    },
+    {
+      "description": "Aplique a política de contratação um por um, onde cada jogador estrangeiro só pode ser contratado quando um jogador local é vendido ou liberado."
+    },
+    {
+      "description": "Realize negociações de troca que envolvam jogadores estrangeiros para incentivar a diversidade no elenco e manter a balança entre locais e estrangeiros."
+    }
+  ]
+}

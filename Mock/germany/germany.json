@@ -1,0 +1,382 @@
+{
+  "teams": [
+    {
+      "name": "Augsburg",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "Em 2009/2010 o clube marcou história ao chegar nas semifinais na DFB-Pokal, repita o feito",
+        "ligaInternacional": "Classificar para a Champions League pela primeira vez em sua historia",
+        "rival": "Vencer o RB Leipzig nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Bayer Leverkusen",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "A única vez que o Bayer Leverkusen foi campeão da Copa da Alemanha foi em 1992/1993, volte a ser campeão depois de 30 anos",
+        "ligaInternacional": "Nunca foi campeão da Champions League, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Koln nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Bayer Munich",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "32x Campeão da Bundesliga, o objetivo é ser campeão pela 33ª vez e continuar sendo o maior campeão da competição",
+        "copaNacional": "20x Campeão da DFB-Pokal, o objetivo é ser campeão pela 21ª vez e continuar sendo o maior campeão da competição",
+        "ligaInternacional": "3x Campeão da Champions League, o último título foi em 2012/2013, volte a ser campeão depois de 10 anos",
+        "rival": "Vencer o Borussia Dortmund nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Bochum",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "Em 2015/2016 o clube marcou história ao chegar nas Quartas de final na DFB-Pokal, repita o feito",
+        "ligaInternacional": "Classificar para a Champions League pela primeira vez em sua historia",
+        "rival": "Vencer o Stuttgart nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "8x Campeão da Bundesliga, o objetivo é ser campeão pela 9ª vez",
+        "copaNacional": "5x Campeão da DFB-Pokal, o objetivo é ser campeão pela 6ª vez",
+        "ligaInternacional": "1x Campeão da Champions League, o último título foi em 1996/1997, volte a ser campeão depois de 26 anos",
+        "rival": "Vencer o Bayern Munich nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Borussia Monchengladbach",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "5x Campeão da Bundesliga, o objetivo é ser campeão pela 6ª vez",
+        "copaNacional": "3x Campeão da DFB-Pokal, o objetivo é ser campeão pela 4ª vez",
+        "ligaInternacional": "Em 2020/2021 chegou nas Oitavas de Final da Champions League, repita o feito e seja campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Borussia Dortmund nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Darmstadt",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "Em 2022/2023 chegou nas Oitavas de final na DFB-Pokal, repita o feito",
+        "ligaInternacional": "Classificar para a Champions League pela primeira vez em sua historia",
+        "rival": "Vencer o Eintracht Frankfurt nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "1x Campeão da Bundesliga, o objetivo é ser campeão pela 2ª vez",
+        "copaNacional": "5x Campeão da DFB-Pokal, o objetivo é ser campeão pela 6ª vez",
+        "ligaInternacional": "Em 2022/2023 chegou nas Oitavas de final da Champions League, repita o feito e busque o título inédito",
+        "rival": "Vencer o Borussia Dortmund nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Freiburg",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "Em 2021/2022 chegou na final da DFB-Pokal, repita o feito e seja campeão pela primeira vez em sua historia",
+        "ligaInternacional": "Classificar para a Champions League pela primeira vez em sua historia",
+        "rival": "Vencer o Borussia Mönchengladbach nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Heidenheim",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "Em 2018/2019 chegou nas Quartas de final na DFB-Pokal, repita o feito",
+        "ligaInternacional": "Classificar para a Champions League pela primeira vez em sua historia",
+        "rival": "Vencer o Stuttgart nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Hoffenheim",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "Em 2022/2023 chegou nas Oitavas de final na DFB-Pokal, repita o feito",
+        "ligaInternacional": "Em 2018/2019 chegou na Fase de grupos da Champions League, repita o feito e busque passar de fase",
+        "rival": "Vencer o Stuttgart nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Koln",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "3x Campeão da Bundesliga, o objetivo é ser campeão pela 4ª vez",
+        "copaNacional": "4x Campeão da DFB-Pokal, o objetivo é ser campeão pela 5ª vez",
+        "ligaInternacional": "Em 1978/1979 chegou nas Semifinais da Champions League, repita o feito após 44 anos",
+        "rival": "Vencer o Borussia Mönchengladbach nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Mainz",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "Em 2017/2018 chegou nas Quartas de final na DFB-Pokal, repita o feito e busque ser campeão pela primeira vez em sua historia",
+        "ligaInternacional": "Classificar para a Champions League pela primeira vez em sua historia",
+        "rival": "Vencer o Eintracht Frankfurt nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "RB Leipzig",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "2x Campeão da DFB-Pokal, o objetivo é ser campeão pela 3ª vez",
+        "ligaInternacional": "Em 2022/2023 chegou nas Oitavas de final da Champions League, repita o feito e busque o título inédito",
+        "rival": "Vencer o Borussia Dortmund nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Stuttgart",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "5x Campeão da Bundesliga, o objetivo é ser campeão pela 6ª vez",
+        "copaNacional": "3x Campeão da DFB-Pokal, o objetivo é ser campeão pela 4ª vez",
+        "ligaInternacional": "Classificar para Fase de grupos da Champions League pela primeira vez em sua historia",
+        "rival": "Vencer o Borussia Dortmund nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Union Berlin",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Vencer pela primeira vez em sua historia a Bundesliga",
+        "copaNacional": "Em 2000/2001 foi o ápice do clube na DFB-Pokal, chegou até a final, repita o feito e busque o título inédito",
+        "ligaInternacional": "Nunca foi campeão da Champions League, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Hertha Berlin nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Werder Bremen",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "4x Campeão da Bundesliga, o objetivo é ser campeão pela 5ª vez",
+        "copaNacional": "6x Campeão da DFB-Pokal, o objetivo é ser campeão pela 7ª vez",
+        "ligaInternacional": "Em 2010/2011 chegou na Fase de grupos da Champions League, repita o feito e busque passar de fase",
+        "rival": "Vencer o Borussia Monchengladbach nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Wolfsburg",
+      "league": "Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "1x Campeão da Bundesliga, o objetivo é ser campeão pela 2ª vez",
+        "copaNacional": "1x Campeão da DFB-Pokal, o objetivo é ser campeão pela 2ª vez",
+        "ligaInternacional": "Em 2015/2016 chegou nas Quartas de finais da Champions League, repita o feito e busque passar de fase",
+        "rival": "Vencer o Borussia Dortmund nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Braunschweig",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Sua última participação na Bundesliga foi em 2013/2014, volte a elite do futebol alemão",
+        "copaNacional": "Em 2015/2016 o clube marcou história ao chegar nas Oitavas de final na DFB-Pokal, repita o feito",
+        "rival": "Vencer o Magdeburg nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Dusseldorf",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Sua última participação na Bundesliga foi em 2019/2020, volte a elite do futebol alemão",
+        "copaNacional": "2x Campeão da DFB-Pokal, o objetivo é ser campeão pela 3ª vez",
+        "rival": "Vencer o Nurnberg nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Elversberg",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Classificar para a Bundesliga pela primeira vez em sua historia",
+        "copaNacional": "Nunca passou das elminatórias da DFB-Pokal, o objetivo é avançar para a Oitavas de final",
+        "rival": "Vencer o Kaiserslautern nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Furth",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "3x Campeão da Bundesliga, porém caiu para 2. Bundesliga em 2021/2022, volte a elite do futebol alemão",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o FC Nürnberg nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Hannover",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "2x Campeão da Bundesliga, porém caiu para a 2. Bundesliga em 2018/2019, volte a elite do futebol alemão",
+        "copaNacional": "1x Campeão da DFB-Pokal, o objetivo é ser campeão pela 2ª vez",
+        "rival": "Vencer o Osnabrück nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Hamburger SV",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "6x Campeão da Bundesliga, porém caiu para a 2. Bundesliga em 2017/2018, volte a elite do futebol alemão",
+        "copaNacional": "3x Campeão da DFB-Pokal, o objetivo é ser campeão pela 4ª vez",
+        "rival": "Vencer o St. Pauli nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Hertha",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "2x Campeão da Bundesliga, porém caiu para a 2. Bundesliga em 2022/2023, volte a elite do futebol alemão",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Dusseldorf nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Kaiserslautern",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "4x Campeão da Bundesliga, porém caiu para a 2. Bundesliga em 2011/2012, volte a elite do futebol alemão",
+        "copaNacional": "2x Campeão da DFB-Pokal, o objetivo é ser campeão pela 3ª vez",
+        "rival": "Vencer o Nurnberg nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Karlsruher",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "1x Campeão da Bundesliga, porém caiu para a 2. Bundesliga em 2008/2009, volte a elite do futebol alemão",
+        "copaNacional": "2x Campeão da DFB-Pokal, o objetivo é ser campeão pela 3ª vez",
+        "rival": "Vencer o Hamburger SV nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Kiel",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "1x Campeão da Bundesliga, volte a elite do futebol alemão",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, em 2020/2021 chegou as Semifinais da Copa, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Hamburger SV nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Magdeburg",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Classificar para a Bundesliga pela primeira vez em sua historia",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, em 2000/2001 fizeram a melhor campanha da historia do clube, chegando as Quartas de final da Copa, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Wehen nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Nurnberg",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "9x Campeão da Bundesliga, volte a elite do futebol alemão",
+        "copaNacional": "4x Campeão da DFB-Pokal, o objetivo é ser campeão pela 5ª vez",
+        "rival": "Vencer o Kaiserslautern nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Osnabruck",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Classificar para a Bundesliga pela primeira vez em sua historia",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Hannover nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Paderborn",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Sua última participação na Bundesliga foi em 2019/2020, volte a elite do futebol alemão",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, em 2022/2023 chegaram nas Oitavas de final da Copa, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Furth nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Rostock",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Sua última participação na Bundesliga foi em 2007/2008, volte a elite do futebol alemão",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, em 2021/2022 chegaram nas Oitavas de final da Copa, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Magdeburg nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Schalke",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "7x Campeão da Bundesliga, porém caiu para a 2. Bundesliga em 2022/2023, volte a elite do futebol alemão",
+        "copaNacional": "5x Campeão da DFB-Pokal, o objetivo é ser campeão pela 6ª vez",
+        "rival": "Vencer o Hamburger SV nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "St. Pauli",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Sua última participação na Bundesliga foi em 2010/2011, volte a elite do futebol alemão ",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Hamburger SV nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Wehen",
+      "league": "2. Bundesliga",
+      "country": "Alemanha",
+      "objectiveTeam": {
+        "ligaNacional": "Classificar para a Bundesliga pela primeira vez em sua historia",
+        "copaNacional": "Nunca ganhou a DFB-Pokal, o objetivo é ser campeão pela primeira vez em sua historia",
+        "rival": "Vencer o Rostock nos clássicos e terminar a frente do rival na classificação"
+      }
+    }
+  ]
+}

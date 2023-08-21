@@ -1,0 +1,204 @@
+{
+  "teams": [
+    {
+      "name": "Atalanta",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Vencer a Serie A",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Juventus nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Bologna",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer a Inter de Milão nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Cagliari",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Se manter na Serie A",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer a Inter de Milão nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Empoli",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Se manter na Serie A",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer a Fiorentina nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Fiorentina",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Vencer a Serie A",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer a Atalanta nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Frosinone",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Se manter na Serie A",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer a Lazio nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Genoa",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Se manter na Serie A",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Torino nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Inter de Milão",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Vencer a Serie A",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer a Juventus nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Juventus",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Vencer a Serie A",
+        "geral": "Vencer a Champions League e a Europa Conference League",
+        "rival": "Vencer a Inter de Milão nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Lazio",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Vencer a Serie A",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer a Inter de Milão nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Lecce",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer a Atalanta nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Milan",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Vencer a Serie A",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer a Inter de Milão nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Monza",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer a Inter de Milão nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Napoli",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Vencer a Serie A",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer a Inter de Milão nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Roma",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Vencer a Serie A",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer a Inter de Milão nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Salernitana",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Se manter na Serie A",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Napoli nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Sassuolo",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer a Juventus nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Torino",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer a Juventus nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Udinese",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Napoli nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Hellas Verona",
+      "league": "Serie A",
+      "country": "Italia",
+      "objectiveTeam": {
+        "league": "Se manter na Serie A",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Napoli nos clássicos e terminar a frente do rival na classificação"
+      }
+    }
+  ]
+}

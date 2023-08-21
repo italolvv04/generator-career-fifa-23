@@ -1,0 +1,28 @@
+{
+  "playersAges": [
+    {
+      "description": "Tenha pelo menos 3 jogadores com mais de 30 anos, sempre com contrato de 1 ano."
+    },
+    {
+      "description": "Tenha pelo menos 2 jogadores com mais de 30 anos, sempre com contrato de 1 ano e status crucial ou importante."
+    },
+    {
+      "description": "Mantenha o elenco com média de idade de 24 anos."
+    },
+    {
+      "description": "Não contrate jogadores com mais de 30 anos."
+    },
+    {
+      "description": "Não contrate jogadores com menos de 21 anos, priorizando a formação de jovens talentos da base."
+    },
+    {
+      "description": "Contrate um jogador experiente com mais de 30 anos para liderar o time e mentorar os jogadores mais jovens."
+    },
+    {
+      "description": "Monte um elenco jovem, com a maioria dos jogadores com menos de 25 anos, para investir no futuro do clube."
+    },
+    {
+      "description": "Mantenha uma média de idade mais alta, com jogadores experientes acima de 30 anos, para competir em torneios de maior exigência."
+    }
+  ]
+}

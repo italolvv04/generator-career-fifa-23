@@ -1,0 +1,223 @@
+.container {
+  padding: 4rem 1rem;
+}
+
+.container p {
+  margin: 1.5rem 0;
+}
+
+.card {
+  max-width: 60rem;
+  box-shadow: -10px 10px 80px rgba(255, 255, 255, 0.1);
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.cardHeader {
+  max-width: 60rem;
+  box-shadow: -10px 10px 80px rgba(255, 255, 255, 0.1);
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.cardHeader h1 {
+  color: green;
+}
+
+.card h1 {
+  flex-grow: 1;
+  margin-left: 20%;
+  color: green;
+}
+
+.card button {
+  background: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+}
+
+.card button svg {
+  width: 35px;
+  height: 35px;
+}
+
+.cardOptionTeam{
+  max-width: 60rem;
+  box-shadow: -10px 10px 80px rgba(255, 255, 255, 0.1);
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 20px;
+  align-items: center;
+  text-decoration: none;
+}
+
+.cardOptionTeam > div:nth-child(2) {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.cardOptionTeam > div:nth-child(3) {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  gap: 15px;
+  align-items: center;
+}
+
+.goToBack {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.goToBack button {
+  background-image: linear-gradient(to right, #232526 0%, #414345  51%, #232526  100%);
+  margin: 10px;
+  padding: 10px 15px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
+.areaGenerate {
+  max-width: 60rem;
+  box-shadow: -10px 10px 80px rgba(255, 255, 255, 0.1);
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.areaResult {
+  max-width: 60rem;
+  box-shadow: -10px 10px 80px rgba(255, 255, 255, 0.1);
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  gap: 30px;
+}
+
+.areaResult div {
+  word-wrap: break-word;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.areaResult h1 {
+  color: green;
+}
+
+.areaResult strong {
+  color: green;
+}
+
+.areaResult span {
+  line-height: 1.5;
+}
+
+.goBackIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.areaGenerate button {
+  background-image: linear-gradient(to right, #232526 0%, #414345  51%, #232526  100%);
+  margin: 10px;
+  padding: 15px 25px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+  display: block;
+  cursor: pointer;
+}
+
+.areaGenerate:hover button {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+
+.inlineCode {
+  color: #be00ff;
+  font-size: 16px;
+  white-space: pre-wrap;
+}
+
+.inlineCode::before,
+.inlineCode::after {
+  content: '`';
+}
+
+.hr {
+  border: 0;
+  border-top: 1px solid #333;
+  margin: 1.5rem 0;
+}
+
+.bgWrap {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.bgText {
+  margin: 0;
+  font-size: 2rem;
+  line-height: 3rem;
+  text-align: center;
+  padding-top: 40vh;
+  text-shadow: 1px 1px 1px #3c5c5e;
+}
+
+.imgDark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .imgLight {
+    display: none;
+  }
+
+  .imgDark {
+    display: unset;
+  }
+}

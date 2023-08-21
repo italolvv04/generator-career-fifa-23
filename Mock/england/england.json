@@ -1,0 +1,444 @@
+{
+  "teams": [
+    {
+      "name": "AFC Bournemouth",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Se manter na Premier League",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Brighton nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Arsenal",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Manchester City nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Aston Villa",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Classificação para Champions League, vencer a Europa Conference League, vencer a Fa Cup ou Carabão Cup",
+        "rival": "Vencer o Wolverhampton nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Brentford",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Fulham nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Brighton",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Crystal Palace nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Burnley",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Se manter na Premier League",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Aston Villa nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Chelsea",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Manchester City nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Crystal Palace",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Brighton nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Everton",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Liverpool nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Fulham",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Chelsea nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Liverpool",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Manchester United nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Luton Town",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Se manter na Premier League",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Brentford nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Manchester City",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Manchester United nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Manchester United",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Liverpool nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Newcastle United",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Classificar e vencer a Champions League",
+        "rival": "Vencer o Liverpool nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Nottingham Forest",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Tottenham nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Sheffield United",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Se manter na Premier League",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Tottenham nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Arsenal nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "West Ham",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Arsenal nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Wolves",
+      "league": "Premier League",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Premier League",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Wolverhampton nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Birmingham",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar nas Oitavas de Final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Coventry nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Blackburn",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar nas Quartas de Final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Stoke City nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Bristol City",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar nas Oitavas de Final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Cardiff nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Cardiff",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Swansea nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Coventry",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 32 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Birmingham City nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Huddersfield",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Plymouth nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Hull",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 32 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Blackburn nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Ipswich",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar nas Oitavas de Final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Norwich nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Leeds",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar nas Quartas de Final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Bristol City nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Leicester",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar nas Quartas de Final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Coventry nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Middlesbrough",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 32 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Blackburn nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Millwall",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Chegar 32 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Hull City nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Norwich",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Ipswich nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Plymouth",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Bristol City nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Preston",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Blackburn nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "QPR",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 32 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Cardiff nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Rotherham",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Blackburn nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Sheffield Wednesday",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o QPR nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Southampton",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar nas Oitavas de Final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Stoke City nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Stoke",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar nas Oitavas de Final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Blackburn nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Sunderland",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Middlesbrough nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Swansea",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Cardiff nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Watford",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Vencer a Championship",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o QPR nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "West Bromwich",
+      "league": "Championship",
+      "country": "Inglaterra",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Chegar 16 Avos de final da Carabao Cup e FA Cup",
+        "rival": "Vencer o Birmingham City nos clássicos e terminar a frente do rival na classificação"
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "teams": [
+    {
+      "name": "Alavés",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Se manter na La Liga",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Real Sociedad nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Almería",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Se manter na La Liga",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Real Betis nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Athletic Bilbao",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Real Sociedad nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Atlético de Madrid",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Vencer a La Liga",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Real Madrid nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Barcelona",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Vencer a La Liga",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Real Madrid nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Real Betis",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Vencer a La Liga",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Barcelona nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Cádiz",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Real Betis nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Celta de Vigo",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Real Betis nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Getafe",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Sevilla nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Girona",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Barcelona nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Granada",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Real Sociedad nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Las Palmas",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Se manter na La Liga",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Real Betis nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Mallorca",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Barcelona nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Osasuna",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Vencer a La Liga",
+        "geral": "Classificação para Champions League e vencer a Europa Conference League",
+        "rival": "Vencer o Real Betis nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Rayo Vallecano",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Vencer a La Liga",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Sevilla nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Real Madrid",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Vencer a La Liga",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Barcelona nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Real Sociedad",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Vencer a La Liga",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Athletic Bilbao nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Sevilla",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Vencer a La Liga",
+        "geral": "Vencer a Champions League e a UEFA Super Cup",
+        "rival": "Vencer o Valencia nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Valencia",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Sevilla nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Villarreal",
+      "league": "La Liga",
+      "country": "Espanha",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Valencia nos clássicos e terminar a frente do rival na classificação"
+      }
+    }
+  ]
+}

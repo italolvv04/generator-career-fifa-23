@@ -1,0 +1,70 @@
+{
+  "playersContract": [
+    {
+      "description": "Jogadores nascidos no país do clube, somente podem renovar por 3 anos ou mais e com multa."
+    },
+    {
+      "description": "Permitido superar o maior salário do elenco apenas 1 vez por janela."
+    },
+    {
+      "description": "Jogadores estrangeiros somente podem ter renovações por 2 ano no máximo, independente da idade."
+    },
+    {
+      "description": "Só pode renovar contratos quando jogador tiver no máximo 5 meses restantes de contrato."
+    },
+    {
+      "description": "Somente renove contratos pagando pelo menos 10% a mais do salario atual e por 2 anos."
+    },
+    {
+      "description": "Somente renove contratos pagando pelo menos 20% a mais do salario atual e por pelo menos mais 2 anos."
+    },
+    {
+      "description": "Todas as renovações precisam ter clausula de rescisão e o maior salário deve ser jogador crucial."
+    },
+    {
+      "description": "Jogadores com idade acima de 30 anos podem assinar apenas contratos de 1 ano, com opção de renovação por mais um ano."
+    },
+    {
+      "description": "Ao renovar contratos, jogadores com base salarial que exceda 70% do maior salário da equipe devem ser vendidos imediatamente."
+    },
+    {
+      "description": "Ao final de cada temporada, você deve liberar pelo menos dois jogadores cujos contratos estão vencendo, independentemente de sua importância para o time."
+    },
+    {
+      "description": "Se um jogador recusar duas ofertas de renovação de contrato, você deve vendê-lo na próxima janela de transferências."
+    },
+    {
+      "description": "Renovações de contrato só são permitidas após o jogador alcançar um certo número de partidas jogadas na temporada atual."
+    },
+    {
+      "description": "Jogadores emprestados podem ser chamados de volta antes do término do empréstimo, mas seus contratos devem ser imediatamente renovados."
+    },
+    {
+      "description": "Jogadores que atingirem marcas específicas (gols, assistências, partidas jogadas) terão seus contratos automaticamente renovados por mais um ano."
+    },
+    {
+      "description": "Jogadores que forem capitães da equipe por mais de duas temporadas consecutivas têm direito a uma renovação automática de contrato."
+    },
+    {
+      "description": "Ao contratar um jogador novo, você deve incluir uma opção de extensão de contrato após a primeira temporada, caso ele atinja metas de desempenho."
+    },
+    {
+      "description": "Jogadores veteranos podem receber cláusulas de renovação automática com base em metas específicas, como partidas jogadas, gols, assistencias na temporada atual."
+    },
+    {
+      "description": "Ao vender um jogador, garanta que ele não possa retornar ao seu clube por pelo menos 2 temporadas após a venda."
+    },
+    {
+      "description": "Ao final de cada temporada, você deve escolher um jogador para receber uma extensão de contrato gratuita como reconhecimento de seu desempenho excepcional."
+    },
+    {
+      "description": "Jogadores emprestados que se destacarem em suas equipes temporárias podem receber uma renovação automática ou um aumento salarial ao retornar."
+    },
+    {
+      "description": "Jogadores que atingirem a marca de 100 partidas jogadas pelo clube têm direito a uma renovação automática de contrato com melhores termos."
+    },
+    {
+      "description": "Implemente uma política de salários máximos, onde nenhum jogador pode ganhar mais de um certo valor, independentemente de sua importância."
+    }
+  ]
+}

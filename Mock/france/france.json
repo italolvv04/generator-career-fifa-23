@@ -1,0 +1,184 @@
+{
+  "teams": [
+    {
+      "name": "Brest",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Rennes nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Clermont",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Lyon nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Le Havre",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Se manter na Ligue 1",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Lens nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Lens",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Vencer a Ligue 1",
+        "geral": "Classificar e vencer a Champions League",
+        "rival": "Vencer o Lille nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Lille",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Vencer a Ligue 1",
+        "geral": "Classificação para Champions League e vencer a Europa Conference League",
+        "rival": "Vencer o Lens nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Lorient",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Nantes nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Lyon",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Vencer a Ligue 1",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Marseille nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Metz",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Se manter na Ligue 1",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Reims nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Monaco",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Vencer a Ligue 1",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Nice nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Montpellier",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Marseille nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Nantes",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Lorient nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Nice",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Liga Europa",
+        "rival": "Vencer o Marseille nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Marseille",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Vencer a Ligue 1",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o PSG nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "PSG",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Vencer a Ligue 1",
+        "geral": "Vencer a Champions League",
+        "rival": "Vencer o Marseille nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Reims",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no topo da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Metz nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Rennes",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Vencer a Ligue 1",
+        "geral": "Classificação para Champions League",
+        "rival": "Vencer o Nantes nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Strasbourg",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Metz nos clássicos e terminar a frente do rival na classificação"
+      }
+    },
+    {
+      "name": "Toulouse",
+      "league": "Ligue 1",
+      "country": "França",
+      "objectiveTeam": {
+        "league": "Terminar no meio da tabela",
+        "geral": "Classificação para Conferência Europeia",
+        "rival": "Vencer o Montpellier nos clássicos e terminar a frente do rival na classificação"
+      }
+    }
+  ]
+}
